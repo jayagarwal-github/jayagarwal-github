@@ -20,9 +20,9 @@
 
 ---
 
-### 📌 Quick Highlights
+###  Quick Highlights
 
-| 🏷️ **Role** | 🏢 **Company** | 🎓 **Education** | 📍 **Location** |
+| **Role** | **Company** | **Education** | **Location** |
 | :--- | :--- | :--- | :--- |
 | **Founder & Lead Engineer** | [Vellion Group](https://velliongroup.in) | **MCA**, VIT Vellore | Agra, India |
 
