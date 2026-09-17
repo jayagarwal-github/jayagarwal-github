@@ -31,6 +31,7 @@ Building Digital Systems • Android & Cross-Platform Apps • AI Workflows
 ## Technical Focus & Distribution
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'pie1': '#3b82f6', 'pie2': '#10b981', 'pie3': '#f59e0b', 'pie4': '#8b5cf6', 'pieStrokeColor': '#0d1117', 'pieStrokeWidth': '2px', 'pieTitleTextColor': '#58a6ff', 'pieLegendTextColor': '#e6edf3', 'pieSectionTextColor': '#ffffff'}}}%%
 pie title Engineering Expertise Breakdown
     "Android & Mobile Apps" : 35
     "Full-Stack Web" : 30
