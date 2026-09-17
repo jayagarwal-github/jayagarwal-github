@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Jay Agarwal
+# Jay Agarwal
 
 ### **Founder, [Vellion Group](https://velliongroup.in) • Mobile & Full-Stack Engineer • Automation Architect**
 
@@ -13,42 +13,54 @@
 </p>
 
 ```
-🚀 Building Digital Systems • 📱 Android & Cross-Platform Apps • 🤖 AI Workflows
+Building Digital Systems • Android & Cross-Platform Apps • AI Workflows
 ```
 
 </div>
 
 ---
 
-### 📌 Quick Highlights
+### Quick Highlights
 
-| 🏷️ **Role** | 🏢 **Company** | 🎓 **Education** | 📍 **Location** |
+| Role | Company | Education | Location |
 | :--- | :--- | :--- | :--- |
 | **Founder & Lead Engineer** | [Vellion Group](https://velliongroup.in) | **MCA**, VIT Vellore | Agra, India |
 
 ---
 
-## 💻 Core Production Technologies
+## Technical Focus & Distribution
 
 ```mermaid
-pie title 🛠️ Production Stack & Language Distribution
-    "TypeScript (Full-Stack SaaS & APIs)" : 30
-    "Dart / Flutter (Cross-Platform Mobile)" : 25
-    "Kotlin (Android & Jetpack Compose)" : 20
-    "Prisma ORM & MySQL (Data Modeling)" : 15
-    "Python & Automation (Bots & APIs)" : 10
+pie title Engineering Expertise Breakdown
+    "Android & Mobile Apps" : 35
+    "Full-Stack Web" : 30
+    "AI & Automation Workflows" : 20
+    "Cloud, DevOps & Databases" : 15
 ```
 
 ---
 
-## 🔄 Core Technology Workflow
+## Languages & Core Technologies
+
+```mermaid
+pie title Languages Breakdown
+    "TypeScript" : 30
+    "Dart & Flutter" : 25
+    "Kotlin" : 20
+    "JavaScript" : 15
+    "Python" : 10
+```
+
+---
+
+## Core Technology Workflow
 
 ```mermaid
 graph LR
-    A["💡 Business Logic & SaaS Specs"] --> B["📱 Mobile Layer<br/>Kotlin • Jetpack Compose • Dart / Flutter"]
-    A --> C["🌐 Web Layer<br/>React.js • TypeScript • Tailwind"]
-    A --> D["⚙️ API & Backend Engine<br/>Node.js • NestJS • Prisma ORM"]
-    B --> E["🗄️ Cloud & Data Layer<br/>MySQL • Firebase • Docker • VPS"]
+    A["Business Logic & SaaS Specs"] --> B["Mobile Layer<br/>Kotlin • Jetpack Compose • Dart / Flutter"]
+    A --> C["Web Layer<br/>React.js • TypeScript • Tailwind"]
+    A --> D["Backend & API Engine<br/>Node.js • NestJS • Prisma ORM"]
+    B --> E["Cloud & Data Layer<br/>MySQL • Firebase • Docker • VPS"]
     C --> E
     D --> E
 
@@ -61,11 +73,11 @@ graph LR
 
 ---
 
-## 🛠️ Stack & Toolbelt
+## Stack & Toolbelt
 
 <table>
   <tr>
-    <td align="center" width="16%"><b>📱 Mobile</b></td>
+    <td align="center" width="16%"><b>Mobile</b></td>
     <td>
       <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
       <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
@@ -77,7 +89,7 @@ graph LR
     </td>
   </tr>
   <tr>
-    <td align="center"><b>💻 Frontend</b></td>
+    <td align="center"><b>Frontend</b></td>
     <td>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
@@ -90,7 +102,7 @@ graph LR
     </td>
   </tr>
   <tr>
-    <td align="center"><b>⚙️ Backend</b></td>
+    <td align="center"><b>Backend</b></td>
     <td>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
@@ -102,7 +114,7 @@ graph LR
     </td>
   </tr>
   <tr>
-    <td align="center"><b>🗄️ Database & ORM</b></td>
+    <td align="center"><b>Database & ORM</b></td>
     <td>
       <img src="https://img.shields.io/badge/Prisma%20ORM-2D3748?style=flat-square&logo=prisma&logoColor=white" />
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
@@ -112,7 +124,7 @@ graph LR
     </td>
   </tr>
   <tr>
-    <td align="center"><b>🤖 Automation</b></td>
+    <td align="center"><b>Automation</b></td>
     <td>
       <img src="https://img.shields.io/badge/WhatsApp%20Bots-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
       <img src="https://img.shields.io/badge/Apps%20Script-4285F4?style=flat-square&logo=google&logoColor=white" />
@@ -122,7 +134,7 @@ graph LR
     </td>
   </tr>
   <tr>
-    <td align="center"><b>☁️ Cloud & Ops</b></td>
+    <td align="center"><b>Cloud & Ops</b></td>
     <td>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
       <img src="https://img.shields.io/badge/Linux%20VPS-FCC624?style=flat-square&logo=linux&logoColor=black" />
@@ -136,9 +148,9 @@ graph LR
 
 ---
 
-## ⚡ SaaS & Production Engineering Standards
+## SaaS & Production Engineering Standards
 
-| 🛡️ Architecture Domain | 🛠️ Production Stack | 🎯 Engineering Standard |
+| Architecture Domain | Production Stack | Engineering Standard |
 | :--- | :--- | :--- |
 | **End-to-End Type Safety** | `TypeScript` • `Prisma ORM` • `NestJS` | Single-source database schema, strictly typed API contracts, zero runtime type errors |
 | **Cross-Platform Mobile** | `Dart` • `Flutter` • `Kotlin` | Production multi-platform applications with native state management & offline storage |
@@ -147,20 +159,20 @@ graph LR
 
 ---
 
-## 🚀 Featured Deployments
+## Featured Deployments
 
-| Project | Category | Tech Stack | Status / Link |
+| Project | Category | Tech Stack | Link |
 | :--- | :--- | :--- | :---: |
-| 🏢 **Attendance CRM** | Enterprise SaaS | `Kotlin` `React` `Node.js` `MySQL` | 🟢 [Enterprise Portal](https://velliongroup.in) |
-| 📈 **InvestWise India** | Fintech / Mobile | `Android` `Kotlin` `Firebase` | 🟢 [Explore Project](https://github.com/jayagarwal-github) |
-| 💬 **WhatsApp Automation Suite** | Process Automation | `Node.js` `Express` `MySQL` | 🟢 [Live Solution](https://velliongroup.in) |
-| ✨ **Opalia Homes** | Luxury E-Commerce | `React` `Tailwind` `Liquid` | 🟢 [opaliahomes.com](https://opaliahomes.com) |
-| 🛎️ **Hotel & Cafe Automation** | Hospitality & Booking | `React` `Node.js` `Apps Script` | 🟢 [Live Preview](https://hotel.vellion.me) |
-| 🏛️ **MCD Urban Solution** | Civic Platform | `React` `REST APIs` | 🟢 [Live Portal](https://mcdurbansolution.velliongroup.in) |
+| **Attendance CRM** | Enterprise SaaS | `Kotlin` `React` `Node.js` `MySQL` | [Enterprise Portal](https://velliongroup.in) |
+| **InvestWise India** | Fintech / Mobile | `Android` `Kotlin` `Firebase` | [Explore Project](https://github.com/jayagarwal-github) |
+| **WhatsApp Automation Suite** | Process Automation | `Node.js` `Express` `MySQL` | [Live Solution](https://velliongroup.in) |
+| **Opalia Homes** | Luxury E-Commerce | `React` `Tailwind` `Liquid` | [opaliahomes.com](https://opaliahomes.com) |
+| **Hotel & Cafe Automation** | Hospitality & Booking | `React` `Node.js` `Apps Script` | [Live Preview](https://hotel.vellion.me) |
+| **MCD Urban Solution** | Civic Platform | `React` `REST APIs` | [Live Portal](https://mcdurbansolution.velliongroup.in) |
 
 ---
 
-## 📬 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="mailto:jay@jayagarwal.in"><img src="https://img.shields.io/badge/Email-jay%40jayagarwal.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
