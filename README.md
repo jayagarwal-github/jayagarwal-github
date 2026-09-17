@@ -40,16 +40,11 @@ pie title Engineering Expertise Breakdown
 
 ---
 
-## Languages & Core Technologies
+## Most Used Languages
 
-```mermaid
-pie title Languages Breakdown
-    "TypeScript" : 30
-    "Dart & Flutter" : 25
-    "Kotlin" : 20
-    "JavaScript" : 15
-    "Python" : 10
-```
+<div align="center">
+  <img src="assets/languages.svg" alt="Most Used Languages" width="380" />
+</div>
 
 ---
 
