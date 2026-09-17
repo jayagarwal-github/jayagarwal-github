@@ -13,41 +13,42 @@
 </p>
 
 ```
- Building Digital Systems • Android & Web Apps • AI Workflows
+🚀 Building Digital Systems • 📱 Android & Cross-Platform Apps • 🤖 AI Workflows
 ```
 
 </div>
 
 ---
 
-###  Quick Highlights
+### 📌 Quick Highlights
 
-| **Role** | **Company** | **Education** | **Location** |
+| 🏷️ **Role** | 🏢 **Company** | 🎓 **Education** | 📍 **Location** |
 | :--- | :--- | :--- | :--- |
 | **Founder & Lead Engineer** | [Vellion Group](https://velliongroup.in) | **MCA**, VIT Vellore | Agra, India |
 
 ---
 
-## Technical Focus & Distribution
+## 💻 Core Production Technologies
 
 ```mermaid
-pie title Engineering Expertise Breakdown
-    "Android & Mobile Apps (Kotlin / Compose)" : 35
-    "Full-Stack Web (React / Node / Nest)" : 30
-    "AI & Automation Workflows" : 20
-    "Cloud, DevOps & Databases" : 15
+pie title 🛠️ Production Stack & Language Distribution
+    "TypeScript (Full-Stack SaaS & APIs)" : 30
+    "Dart / Flutter (Cross-Platform Mobile)" : 25
+    "Kotlin (Android & Jetpack Compose)" : 20
+    "Prisma ORM & MySQL (Data Modeling)" : 15
+    "Python & Automation (Bots & APIs)" : 10
 ```
 
 ---
 
-## Core Technology Workflow
+## 🔄 Core Technology Workflow
 
 ```mermaid
 graph LR
-    A["💡 Business Logic & Architecture"] --> B[" Mobile Layer<br/>Kotlin • Jetpack Compose • Flutter"]
-    A --> C["Web Layer<br/>React.js • Tailwind • Node.js"]
-    A --> D["Automation Engine<br/>WhatsApp Bots • Cron • APIs"]
-    B --> E["Cloud & Data<br/>MySQL • Firebase • Docker • VPS"]
+    A["💡 Business Logic & SaaS Specs"] --> B["📱 Mobile Layer<br/>Kotlin • Jetpack Compose • Dart / Flutter"]
+    A --> C["🌐 Web Layer<br/>React.js • TypeScript • Tailwind"]
+    A --> D["⚙️ API & Backend Engine<br/>Node.js • NestJS • Prisma ORM"]
+    B --> E["🗄️ Cloud & Data Layer<br/>MySQL • Firebase • Docker • VPS"]
     C --> E
     D --> E
 
@@ -60,23 +61,25 @@ graph LR
 
 ---
 
-## Stack & Toolbelt
+## 🛠️ Stack & Toolbelt
 
 <table>
   <tr>
-    <td align="center" width="16%"><b>Mobile</b></td>
+    <td align="center" width="16%"><b>📱 Mobile</b></td>
     <td>
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
       <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
       <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
       <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
       <img src="https://img.shields.io/badge/Room%20DB-4285F4?style=flat-square&logo=sqlite&logoColor=white" />
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
       <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Frontend</b></td>
+    <td align="center"><b>💻 Frontend</b></td>
     <td>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
@@ -87,19 +90,21 @@ graph LR
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Backend</b></td>
+    <td align="center"><b>⚙️ Backend</b></td>
     <td>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
       <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
       <img src="https://img.shields.io/badge/REST%20APIs-009688?style=flat-square&logo=postman&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Database</b></td>
+    <td align="center"><b>🗄️ Database & ORM</b></td>
     <td>
+      <img src="https://img.shields.io/badge/Prisma%20ORM-2D3748?style=flat-square&logo=prisma&logoColor=white" />
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
       <img src="https://img.shields.io/badge/Firebase%20Firestore-FFA611?style=flat-square&logo=firebase&logoColor=white" />
       <img src="https://img.shields.io/badge/Realtime%20DB-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
@@ -107,7 +112,7 @@ graph LR
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Automation</b></td>
+    <td align="center"><b>🤖 Automation</b></td>
     <td>
       <img src="https://img.shields.io/badge/WhatsApp%20Bots-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
       <img src="https://img.shields.io/badge/Apps%20Script-4285F4?style=flat-square&logo=google&logoColor=white" />
@@ -117,7 +122,7 @@ graph LR
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Cloud & Ops</b></td>
+    <td align="center"><b>☁️ Cloud & Ops</b></td>
     <td>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
       <img src="https://img.shields.io/badge/Linux%20VPS-FCC624?style=flat-square&logo=linux&logoColor=black" />
@@ -131,35 +136,31 @@ graph LR
 
 ---
 
-## Featured Deployments
+## ⚡ SaaS & Production Engineering Standards
+
+| 🛡️ Architecture Domain | 🛠️ Production Stack | 🎯 Engineering Standard |
+| :--- | :--- | :--- |
+| **End-to-End Type Safety** | `TypeScript` • `Prisma ORM` • `NestJS` | Single-source database schema, strictly typed API contracts, zero runtime type errors |
+| **Cross-Platform Mobile** | `Dart` • `Flutter` • `Kotlin` | Production multi-platform applications with native state management & offline storage |
+| **Enterprise SaaS Engines** | `React` • `Node.js` • `MySQL` • `Prisma` | Scalable multi-tenant dashboards, secure authentication & high-concurrency data models |
+| **Automated Business Pipelines** | `Node.js` • `WhatsApp Bots` • `Cron` | Event-driven notification bots, automated customer workflows & real-time webhook sync |
+
+---
+
+## 🚀 Featured Deployments
 
 | Project | Category | Tech Stack | Status / Link |
 | :--- | :--- | :--- | :---: |
-| **Attendance CRM** | Enterprise System | `Kotlin` `React` `Node.js` `MySQL` | 🟢 [Enterprise Portal](https://velliongroup.in) |
-| **InvestWise India** | Fintech / Mobile | `Android` `Kotlin` `Firebase` | 🟢 [Explore Project](https://github.com/jayagarwal-github) |
-| **WhatsApp Automation Suite** | Process Automation | `Node.js` `Express` `MySQL` | 🟢 [Live Solution](https://velliongroup.in) |
-| **Opalia Homes** | Luxury E-Commerce | `React` `Tailwind` `Liquid` | 🟢 [opaliahomes.com](https://opaliahomes.com) |
-| **Hotel & Cafe Automation** | Hospitality & Booking | `React` `Node.js` `Apps Script` | 🟢 [Live Preview](https://hotel.vellion.me) |
-| **MCD Urban Solution** | Civic Platform | `React` `REST APIs` | 🟢 [Live Portal](https://mcdurbansolution.velliongroup.in) |
+| 🏢 **Attendance CRM** | Enterprise SaaS | `Kotlin` `React` `Node.js` `MySQL` | 🟢 [Enterprise Portal](https://velliongroup.in) |
+| 📈 **InvestWise India** | Fintech / Mobile | `Android` `Kotlin` `Firebase` | 🟢 [Explore Project](https://github.com/jayagarwal-github) |
+| 💬 **WhatsApp Automation Suite** | Process Automation | `Node.js` `Express` `MySQL` | 🟢 [Live Solution](https://velliongroup.in) |
+| ✨ **Opalia Homes** | Luxury E-Commerce | `React` `Tailwind` `Liquid` | 🟢 [opaliahomes.com](https://opaliahomes.com) |
+| 🛎️ **Hotel & Cafe Automation** | Hospitality & Booking | `React` `Node.js` `Apps Script` | 🟢 [Live Preview](https://hotel.vellion.me) |
+| 🏛️ **MCD Urban Solution** | Civic Platform | `React` `REST APIs` | 🟢 [Live Portal](https://mcdurbansolution.velliongroup.in) |
 
 ---
 
-## Activity & Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats-fast.vercel.app/api?username=jayagarwal-github&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Jay's GitHub Stats" width="48%" />
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jayagarwal-github&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jayagarwal-github&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="96%" />
-
-</div>
-
----
-
-## Connect With Me
+## 📬 Connect With Me
 
 <p align="center">
   <a href="mailto:jay@jayagarwal.in"><img src="https://img.shields.io/badge/Email-jay%40jayagarwal.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
