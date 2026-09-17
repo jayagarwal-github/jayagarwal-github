@@ -44,7 +44,7 @@ pie title Engineering Expertise Breakdown
 
 ```mermaid
 graph LR
-    A["💡 Business Logic & Architecture"] --> B["📱 Mobile Layer<br/>Kotlin • Jetpack Compose • Flutter"]
+    A["💡 Business Logic & Architecture"] --> B[" Mobile Layer<br/>Kotlin • Jetpack Compose • Flutter"]
     A --> C["Web Layer<br/>React.js • Tailwind • Node.js"]
     A --> D["Automation Engine<br/>WhatsApp Bots • Cron • APIs"]
     B --> E["Cloud & Data<br/>MySQL • Firebase • Docker • VPS"]
